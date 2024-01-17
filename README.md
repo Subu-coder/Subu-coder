@@ -1,4 +1,7 @@
-### Hi there 👋
+# 💫 Know Me Better ✨
+
+## Yo!  Welcome to my GitHub playground 🪐, where I embark on coding adventures and share my creations with the world.
+
 
 <!--
 **Subu-coder/Subu-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
