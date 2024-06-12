@@ -6,7 +6,7 @@
 </div>
 
 ## Know Me Better ✨👉🏻
-🔭 I’m currently pursuing My BCA Degree 👨🏻‍🎓<br>👯 I’m looking to collaborate on Full Stack Projects 👩🏻‍💻<br>🌱 I’m currently learning Full Stack Developement<br>💬 Ask me about : C, Java, HTML, CSS, JavaScript<br>⚡ Fun fact: I love to develop 💻
+🔭 I’m currently pursuing My BCA Degree 👨🏻‍🎓<br>👯 I’m looking to collaborate on Full Stack Projects 👩🏻‍💻<br>🌱 I’m currently learning Full Stack Developement<br>💬 Ask me about : Java, HTML, CSS, JavaScript<br>⚡ Fun fact: I love to develop 💻
 
 
 ## 🌐 Socials:
